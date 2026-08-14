@@ -16,7 +16,7 @@ DEV_OP = [
     [
         InlineKeyboardButton(
             text="❍ 𝐀ᴅᴅ 𝐌ᴇ 𝐘ᴏᴜʀ 𝐆ʀᴏᴜᴘ ❍",
-            url=f"https://t.me/{ISTKHAR_CHATBOT.username}?startgroup=true",
+            url=f"https://t.me/SHIRICHAT_BOT?startgroup=true",
         ),
     ],
     [
@@ -115,14 +115,14 @@ HELP_BUTN = [
 
 ABOUT_BTN = [
     [
-        InlineKeyboardButton(text="❍ 𝐒ᴜᴘᴘᴏʀᴛ ❍", url=f"https://t.me/{SUPPORT_GRP}"),
+        InlineKeyboardButton(text="❍ 𝐒ᴜᴘᴘᴏʀᴛ ❍", url=f"https://t.me/ytnaisha"),
         InlineKeyboardButton(text="❍ 𝐘ᴏᴜʀ 𝐂ᴏᴍᴍᴀɴᴅ ❍", callback_data="HELP"),
     ],
     [
         InlineKeyboardButton(text="❍ 𝐎ᴡɴᴇʀ ❍", user_id=OWNER),
     ],
     [
-        InlineKeyboardButton(text="❍ 𝐔ᴘᴅᴀᴛᴇ ❍", url=f"https://t.me/{UPDATE_CHNL}"),
+        InlineKeyboardButton(text="❍ 𝐔ᴘᴅᴀᴛᴇ ❍", url=f"https://t.me/shree_update"),
         InlineKeyboardButton(text="❍ 𝐁ᴀᴄᴋ ❍", callback_data="BACK"),
     ],
 ]
