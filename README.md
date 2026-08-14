@@ -17,11 +17,11 @@
     ─「 ᴅᴇᴩʟᴏʏ ᴏɴ ʟᴏᴄᴀʟ ʜᴏsᴛ/ᴠᴘs 」─
 </h4>
 
-- Get your [Necessary Variables](https://github.com/TEAM-ISTKHAR/ISTKHAR_CHATBOT/blob/main/sample.env)
+- Get your [Necessary Variables](https://github.com/ankitchor/ISTKHAR/blob/main/sample.env)
 - Upgrade and Update by :
 `sudo apt-get update && sudo apt-get upgrade -y`
 - Clone the repository by :
-`git clone https://github.com/Rishubot/ISTKHAR_CHATBOT && cd ISTKHAR_CHATBOT`
+`git clone https://github.com/ankitchor/ISTKHAR && cd ISTKHAR_CHATBOT`
 - Install requirements by :
 `pip3 install -U -r requirements.txt`
 - Fill your variables in the env by :
@@ -43,11 +43,11 @@ Press `Ctrl+C` when you're done with editing env and `:wq` to save the env<br>
 
 
 <h2 align="center"> ──「 sᴜᴘᴘᴏʀᴛ 」──</h2>
-<p align="center"><a href="https://t.me/THUNDERDEVS"> <img src="https://img.shields.io/badge/Join-SUPPORT%20GROUP-black?style=for-the-badge&logo=Telegram" width="220" height="38.5"/></a></p>
+<p align="center"><a href="https://t.me/ytnaisha"> <img src="https://img.shields.io/badge/Join-SUPPORT%20GROUP-black?style=for-the-badge&logo=Telegram" width="220" height="38.5"/></a></p>
 <p align="center"><a href="https://t.me/rishu1286"> <img src="https://img.shields.io/badge/Join-SUPPORT%20CHANNEL-black?style=for-the-badge&logo=Telegram" width="220" height="38.5"/></a></p>
 
 <h3 align="center">──「 ʀᴇᴘᴏ sᴛᴀᴛs 」──</h3>
-<a href="https://github.com/TEAM-ISTKHAR/ISTKHAR_CHATBOTV2"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Rishubot&repo=ISTKHAR_CHATBOT&theme=chartreuse-dark"></a>
+<a href="https://github.com/ankitchor/ISTKHAR"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Rishubot&repo=ISTKHAR_CHATBOT&theme=chartreuse-dark"></a>
 
 
 
